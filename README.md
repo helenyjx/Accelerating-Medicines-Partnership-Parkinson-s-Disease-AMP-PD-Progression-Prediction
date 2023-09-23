@@ -1,7 +1,6 @@
 # Accelerating Medicines Partnership Parkinson's Disease (AMP-PD) Progression Prediction
 **Analysis of Protein and Peptide Levels Over Time to Predict Progression of 
 Parkinson’s Disease**
-#### Team Members: [Ruixin Lou](https://github.com/RuixinLou), [Emmanuel Ruhamyankaka](https://github.com/ruhamyakmc), [Sukhpreet Sahota](https://github.com/5ukhy21), [Jiaxin Ying](https://github.com/helenyjx)
 
 ## Project Video
 https://www.youtube.com/watch?v=QoQLmDszVCw
